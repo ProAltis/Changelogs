@@ -2,6 +2,7 @@ Alpha v1.1.3
 =======
 **Game**
 - Fixed bug that trapped people who chose Drop in TTC
+- Changed percentages on Loopy Lane (30% Bossbot, 40% Lawbot, 5% Cashbot, 5% Sellbot, 30% Boardbot)
 
 **Known Bugs**
 - Sellbot factories, Cashbot mints, and Lawbot DA offices crash

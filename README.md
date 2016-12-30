@@ -7,10 +7,11 @@ Server/Client Changelogs
 -------
 - **[Full Changelog History](changelog.md)**
 - [Individual Release Changelogs](changelogs-single/)
+  - [v1.1.4](changelogs-single/v1.1.4.md)
   - [v1.1.3](changelogs-single/v1.1.3.md)
-   - [v1.1.2](changelogs-single/v1.1.2.md)
-   - [v1.1.1](changelogs-single/v1.1.1.md)
-   - [v1.1.0](changelogs-single/v1.1.0.md)
+  - [v1.1.2](changelogs-single/v1.1.2.md)
+  - [v1.1.1](changelogs-single/v1.1.1.md)
+  - [v1.1.0](changelogs-single/v1.1.0.md)
 
 
 API Documentation

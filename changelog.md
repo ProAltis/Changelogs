@@ -75,3 +75,5 @@ Alpha V1.1.0
 
 - APIs recoded
 - Two-Factor added
+
+----------

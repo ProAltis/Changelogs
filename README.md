@@ -1,7 +1,7 @@
 **Project Altis Public Docs**
 =========================
 
-[Project Altis Website](https://www.projectaltis.com/)
+For more information about this repo, please visit the [Project Altis Website](https://www.projectaltis.com/)
 
 Server/Client Changelogs
 -------

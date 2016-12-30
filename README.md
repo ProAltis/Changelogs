@@ -1,6 +1,8 @@
 **Project Altis Public Docs**
 =========================
 
+[Project Altis Website](https://www.projectaltis.com/)
+
 Server/Client Changelogs
 -------
 - **[Full Changelog History](changelog.md)**

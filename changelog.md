@@ -4,6 +4,7 @@ Alpha v1.1.4
 - Fixed crash on exiting estates
 - Changed percentages on Loopy Lane (30% Bossbot, 40% Lawbot, 5% Cashbot, 5% Sellbot, 30% Boardbot)
 - Another potential fix for the common street crash
+- Facilities now properly distribute parts to participating toons
 
 **Known Bugs**
 - Sellbot factories, Cashbot mints, and Lawbot DA offices crash

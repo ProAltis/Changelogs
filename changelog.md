@@ -1,3 +1,35 @@
+Alpha v1.1.6
+=======
+**Game**
+- Patched some security flaws
+- Potentially fixed crashes with factories
+- Field Offices now spawn naturally
+- Child's Play Charity Event is now active, every 10 cogs destroyed is 1 ¢ donated. You can see the count on the website or on the tv screens in the playgrounds,
+- Disabled the snow
+- Enabled the weather cycle
+- Added HP/MaxHP text to cog info panels in battles
+- Adjusted some more street cog percentages
+
+**Known Bugs**
+- Racing may crash
+
+----------
+Alpha v1.1.5
+=======
+**Game**
+- Couple Dialog Fixes
+- Loopy Lane, Punchline Place, Seaweed Street, Lighthouse Lane, and Maple Street percent changes
+- 2 - 5 Cogs on Barnacle
+- Whitelist Updates
+
+**Key Fixes**
+- Fixed the majourity of memory leaks in the exe
+
+**Known Bugs**
+- Sellbot factories, Cashbot mints, and Lawbot DA offices crash
+- Racing may crash
+
+----------
 Alpha v1.1.4
 =======
 **Game**

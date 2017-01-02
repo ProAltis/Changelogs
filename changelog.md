@@ -34,7 +34,7 @@ Alpha v1.1.4
 =======
 **Game**
 - Fixed crash on exiting estates
-- Changed percentages on Loopy Lane (30% Bossbot, 40% Lawbot, 5% Cashbot, 5% Sellbot, 30% Boardbot)
+- Changed percentages on Loopy Lane
 - Another potential fix for the common street crash
 - Facilities now properly distribute parts to participating toons
 - Tesla Coil now does a maximum of 70 damage (Down from 85)

@@ -36,3 +36,4 @@ The Login API like all of our APIs returns a JSON response.
 | ------------- |:-------------:| -----:|
 | status      | If the auth was successful | true/false **WARNING! This is a string because @Dubito's launcher** |
 | reason      | A message describing the status of the auth      |  'No accounts found with that username!' (for incorrect username and password), 'Please activate two-factor on your account.' (failed),'Welcome back username' (success)  |
+| additonal      | Extra information | 'Uh Oh Spaghettios!' (failed message, friendly), The users playtoken |

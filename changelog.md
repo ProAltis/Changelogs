@@ -24,7 +24,9 @@ Alpha v1.2.0
 - Spread out Lawbot Field Office player spawns to try to make it a bit less likely to be forced to bump into a player which causes you to be glitched
 - Nametag Reworks
 - Added a hide button to whispers
-
+- Reset database, to compensate we are putting a few days of 5x XP, the rest of alpha will be 3x.
+- Added an option to choose to start off in Donald's Dock or Daisy Gardens as compensation for the reset
+a
 **Launcher**
 - Brand New Launcher
 - Content Pack Support

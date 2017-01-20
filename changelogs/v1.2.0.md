@@ -16,7 +16,6 @@ Alpha v1.2.0
 - Fixed Charity Counter
 - Implemented Type-A-Name
 - Implemented Invasion Tracker
-- Added Mac and Linux Support
 - DNA optimizations, frame rates on streets will see an improvement
 - Spread out Lawbot Field Office player spawns to try to make it a bit less likely to be forced to bump into a player which causes you to be glitched
 - Nametag Reworks

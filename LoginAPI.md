@@ -7,6 +7,7 @@ The Login API provides a backbone for the gameservers in order to authenticate u
 
 ----------
 
+*this information may be outdated. The API may not function as it did before.*
 
 Login API is one of the crucial parts of the Project Altis system, as this validates users are: the correct person, have the correct details and have setup two-factor authentication. 
 

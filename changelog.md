@@ -1,3 +1,82 @@
+Alpha 1.2.4
+=======
+**Game**
+- Rearranged The Brrrgh Playground
+- Fixed some common crashes
+- Update some street percentages
+- Experience bar now remembers if its hidden or not on game close
+- Mixed cogs in CEO banquet
+- Zap and Throw SOS cards
+- Wireframe Cheesy Effect
+- Recovery Item Quests fixed
+- Toon IDs on Avatar Panels
+- Newbie Quest AI Crash Fix
+- Missed zaps now cause cogs to dodge
+- Buffs to Trap and Drop SOS cards
+- Cog Suit Garbler words are more business-like
+- Whitelist updates
+
+----------
+Alpha 1.2.3
+=======
+**Game**
+- Added a new 2 Laff Boost task to one of the last tiers to make up for missing some Laff in Daisy Gardens.
+- Fixed Bossbot Golf Courses not counting towards tasks
+- Reworked holiday manager
+- 5x Gag Experience is now a holiday, and is dispayed in the Shticker Book event page
+- Added multipliers display to the battle rewards panel
+- Fixed some speedchat phrases
+- Cogs now smoothly turn corners on streets
+- Fixed passing in battles not responding
+
+----------
+Alpha v1.2.2
+=======
+**Game**
+- Replaced Field Office Tasks
+- Disabled Field Offices until they are fixed
+- Fixed Screenshot Key Rebinding not working at all
+- Added a sound effect when taking a screenshot
+- Pick-A-Toon District Picker now shows invasions
+- Enabled animation smoothing for battle props
+- Shticker book no longer uses custom left and right key binds to change pages, it will always use left / right arrow keys
+- Enabled the catalog!
+- Removed laff limit on facilities
+- Maple Street is now 60% Lawbots, 30% Bossbots, and 10% Boardbots
+
+----------
+Alpha v1.2.1
+=======
+**Game**
+- Potentially fixed TTO Knockback bug
+- Removed all deliver item quests and replaced them with something else to do
+- Fixed an issue where task tiers were offered too early!
+- Zap Gags now wake up lured cogs
+- Added a toggleable above head laff meter display with 3 different options
+- Updated chat whitelist
+- Fixed various crashes
+- Removed RETRY button from disconnected screen (it would close the game anyway)
+- Added ZAP gag related phrases to speed chat
+- Potentially fixed jellybean jars not saving
+- Tweaks to cog buildings cameras
+- Tweaks to elevator cameras
+
+***Hotfix 1***
+- Fixed Trolley Crashing
+- Fixed MML progression when choosing drop in DG
+- Fixed some quests
+- Buffed factories
+- Added a warning for uber mode
+- Fixed various zap gag animations
+- Fixed bean banks not saving jellybeans
+- Changed max gag XP earned from a battle to up to 1500
+
+***Hotfix 2***
+- Fixed Boardbot Invasions not appearing on district page
+- Added a Credits / Discord button to main menu
+- Made preferences.json a little more organized
+
+----------
 Alpha v1.2.0
 =======
 **Game**

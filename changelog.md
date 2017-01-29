@@ -1,3 +1,18 @@
+Alpha 1.3.0
+=======
+**Game**
+- Doodles are now purchasable from the Pet Shops!
+- Buffed playground treasure spawn rate
+- Adjusted a couple treasure spawn positions
+- Allowed Boardbots and more cogs in certain Minigames
+- Added Boardbot icons to Toon Escape minigame
+- Zap SOS cards get 2x damage with squrit
+- Throw SOS cards now get knockback
+- Fixed crash on Toon Details Panel
+- Fixed occasional crash when getting a toontask
+- Fixed Doodles being way to big in pet detail panels
+
+----------
 Alpha 1.2.4
 =======
 **Game**

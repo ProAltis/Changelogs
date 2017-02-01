@@ -2,6 +2,7 @@ Alpha 1.4.0
 =======
 **Game**
 - You can now plan your own toon party!
+- Raised max toons in a party from TTO (20) to 50
 - Re-enabled the Day / Night and Weather cycles
 - Added some new toontasks for Loopy's Balls and Jakes Rakes
 - Added Loopy into Loopy's Balls

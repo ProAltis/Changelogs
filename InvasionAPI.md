@@ -63,7 +63,9 @@ Example returned data:
 ### Returned data
 
 lastUpdated: last time updatred, in unix/epoch time.
+
 friendlyLastUpdated: friendly name for last updated.
+
 serverPopulation: total TTPA population.
 
 districts: array of district objects:

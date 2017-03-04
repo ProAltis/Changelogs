@@ -73,6 +73,6 @@ districts: array of district objects:
  - lastUpdated: last updated in unix/epoch time.
  - friendlyUpdatedAt: friendly name for last updated.
  - invasion: false if not an invasion, object if it is:
-  - Cog: Cog type (for now)
-  - Size: placeholder
-  - defated: placeholder
+    - Cog: Cog type (for now)
+    - Size: placeholder
+    - defated: placeholder

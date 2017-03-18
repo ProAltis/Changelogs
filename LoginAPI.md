@@ -7,11 +7,10 @@ The Login API provides a backbone for the gameservers in order to authenticate u
 
 ----------
 
-*this information may be outdated. The API may not function as it did before.*
 
-Login API is one of the crucial parts of the Project Altis system, as this validates users are: the correct person, have the correct details and have setup two-factor authentication. 
+Login API is one of the crucial parts of the Project Altis system, as this validates users the correct details.
 
-The Login API is located at https://projectaltis.com/api/ in the root of that folder.
+The Login API is located at https://projectaltis.com/api/login
 
 | Variable name      | Info           | Example  |
 | ------------- |:-------------:| -----:|
@@ -19,10 +18,7 @@ The Login API is located at https://projectaltis.com/api/ in the root of that fo
 | p      | The players password      |   test123 |
 
 
-The Login API is the only API to use query strings as the input, this is due to the 'outdated' nature of the launcher, so to be backwards compatible, this was kept the same.
-
-A full example would be https://projectaltis.com/api/?u=Xanon&p=test123
-
+The Login API uses POST
 
 ###SSL
 ----------
@@ -35,6 +31,6 @@ The Login API like all of our APIs returns a JSON response.
 
 | Variable name      | Info           | Possible outcomes  |
 | ------------- |:-------------:| -----:|
-| status      | If the auth was successful | true/false **WARNING! This is a string because @Dubito's launcher** |
-| reason      | A message describing the status of the auth      |  'No accounts found with that username!' (for incorrect username and password), 'Please activate two-factor on your account.' (failed),'Welcome back username' (success)  |
-| additonal      | Extra information | 'Uh Oh Spaghettios!' (failed message, friendly), The users playtoken |
+| status      | If the auth was successful | true/false |
+| reason      | A message describing the status of the auth      |  'No accounts found with that username!' (for incorrect username and password) *or* 'Welcome back username' (success)  |
+| additonal      | Extra information | 'Uh Oh Spaghettios!' (failed message, friendly) *or* The users playtoken |

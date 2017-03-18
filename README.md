@@ -14,7 +14,7 @@ Guides
 
 API Documentation
 -------
- **[Invasion API](InvasionAPI.md)** (not yet live)
+ **[Invasion API](InvasionAPI.md)**
 
  - The Invasion API provides an automatically updated json object with a list of all active invasions, which include the district, the cog invading the district, invasion size, cogs defeated, district population, and timestamps.
 

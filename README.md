@@ -5,7 +5,6 @@ For more information about this repo, please visit the [Project Altis Website](h
 
 Server/Client Changelogs
 -------
-- **[Full Changelog History](changelog.md)**
 - [Individual Release Changelogs](changelogs/)
 
 Guides

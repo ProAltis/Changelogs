@@ -1,4 +1,4 @@
-# (Unofficial) Mac OSX Support
+# (Unofficial) Mac OSX Support (credit to Jollibee for writing this)
 Before continuing, please acknowledge that this method uses a launcher put together by a non-staff entity. The launcher is opensource (you can view it here). We don't expect any issues, but proceed at your own risk. 
 [TTPA is not responsible for anything that happens as a result of you installing his launcher.]
 # Let's Go!

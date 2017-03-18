@@ -40,18 +40,18 @@ Example returned data:
     {
       "Sillyham": {
         "population": 16,
-        "status": true,
+        "status": false,
         "lastUpdated": "1488644448",
-        "friendlyUpdatedAt": "37 seconds ago",
+        "friendlyUpdatedAt": "30 minutes ago",
         "invasion": false
       }
     },
     {
       "Geezer Gorge": {
         "population": 13,
-        "status": true,
+        "status": "unsure",
         "lastUpdated": "1488644472",
-        "friendlyUpdatedAt": "13 seconds ago",
+        "friendlyUpdatedAt": "15 minutes ago",
         "invasion": false
       }
     }
@@ -71,7 +71,7 @@ serverPopulation: total TTPA population.
 districts: array of district objects:
 - district Name
  - population
- - status: online or not?
+ - status: true- online, unsure- not updated within 15 minutes, false- offline
  - lastUpdated: last updated in unix/epoch time.
  - friendlyUpdatedAt: friendly name for last updated.
  - invasion: false if not an invasion, object if it is:

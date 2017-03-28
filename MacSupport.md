@@ -1,14 +1,19 @@
-# (Unofficial) Mac OSX Support (credit to Jollibee for writing this)
-Before continuing, please acknowledge that this method uses a launcher put together by a non-staff entity. The launcher is opensource (you can view it here). We don't expect any issues, but proceed at your own risk. 
+## (Unofficial) Mac OSX Support
+
+(credit to Jollibee for writing this)
+
+Before continuing, please acknowledge that this method uses a launcher put together by a non-staff entity. The launcher is open-sourced [here](https://github.com/judge2020/AltisLauncher-Mac/blob/master/Project%20Altis/ViewController.swift#L15). We don't expect any issues, but proceed at your own risk. 
 [TTPA is not responsible for anything that happens as a result of you installing his launcher.]
 # Let's Go!
-Install "ttpa.dmg" from https://github.com/judge2020/AltisLauncher-Mac/releases
+Download "ttpa.dmg" from https://github.com/judge2020/AltisLauncher-Mac/releases
 ![image](https://camo.githubusercontent.com/7a65ad8412bbac66e36b1b9bf9ffcb09879fade6/687474703a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f30353637393634616265393834373863396462643936343536646364383165622e706e67)
 
 Unmount "ttpa.dmg" once it's done downloading~ you should see this~
 ![image](https://camo.githubusercontent.com/6f95d6492725052c3c7c894d2f4d7a69f4ac1166/687474703a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f34376365303064663536303634303061613438353334633865666661663439392e706e67)
 
-Open "wine.pkg" first~ (If it won't let you open it, go to System Preferences > Security & Privacy > Allow this App)
+You Will need to first install xquartz. press `CTRL` -> `right click` -> `open` on  Xquartz.pkg and allow it to run. Install the default options. Enter your mac password if necessary.
+
+Install wine - press `CTRL` -> `right click` -> `open` on wine.pkg and run it 
 
 You should see this~
 
@@ -20,7 +25,7 @@ When you see this, make sure 64-bit support is checked~
 
 Run through the rest of the installation process, entering your Mac password when prompted.
 
-Once that's complete, open "nvidia openCG"
+Once that's complete, open "nvidia openCG" (if it won't let you, use the same technique)
 
 You should see this:
 
@@ -28,7 +33,11 @@ You should see this:
 
 Enter your Mac password and run through the rest of the installation process.
 
+## NOTE: some time in the next steps you will be asked to install GECKO and MONO. Click yes to both!
+
 Once that's complete, drag "Project Altis" into your Applications folder
+
+**BEFORE YOU RUN IT**, run the program "wine staging" through launchpad once
 
 Go into Applications and run "Project Altis"
 

@@ -1,23 +1,17 @@
-Alpha 1.7.14
+Alpha 1.7.16
 =======
 Features
-- Street Maps:
-    - Task Buildings now show up as gray instead of red if it is taken over by a cog building
-    - All Cog Buildings / Field Offices now show up on the map
-      - Regular Cog Buildings are displayed by their department icon
-      - Field Offices are displayed with the corresponding Cog icon of the Field Office
+- Merit rewards are now available from tasks to toons tasking in the The Brrrrgh and beyond! The values range from 100-700 promotional units.
 
 Tweaks
-- Boss damage now scales to boss health (Lower health = more damage)
-- Tweaked CFO ending cutscene
-- Tweaked CJ ending cutscene
-- Added a sound effect for losing your suit in boss cutscenes
-- Jellybean Bank money is now shown in your Inventory Page
-- Cog HQs now have a permenant 2x gag EXP bonus
-- Temporarily disabled Parties
-- Retextured TTC playground ground texture
+- Added a floor indicator for Mints, DA offices, and Cog Golf Courses
+- Jellybean banks now require jellybeans in order to upgrade from the catalog
+- Interact hotkey is now remappable in options
+- Drastically increase the jellybean reward from Help-A-Toon tasks, go out and help some lower laff toons!
+- Building Icons only show up on the quest maps if you have completed your building radar for that cog department, task buildings will still show as grey if taken over, however.
 
 Bug Fixes
-- Fixed invasions not counting towards merits
-- Fixed incorrect camera angle on final VP cutscene
-- Fixed incorrect health colors for cogs
+- Fix a crash on the items page relating to cheesy effects
+- The entirety of the cog's head now explodes with Opera Singer
+- Fix for codes being redeemable more than once
+- Fix for 0/Max being shown when v2.0 cogs are revived

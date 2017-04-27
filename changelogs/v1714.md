@@ -1,0 +1,23 @@
+Alpha 1.7.14
+=======
+Features
+- Street Maps:
+    - Task Buildings now show up as gray instead of red if it is taken over by a cog building
+    - All Cog Buildings / Field Offices now show up on the map
+      - Regular Cog Buildings are displayed by their department icon
+      - Field Offices are displayed with the corresponding Cog icon of the Field Office
+
+Tweaks
+- Boss damage now scales to boss health (Lower health = more damage)
+- Tweaked CFO ending cutscene
+- Tweaked CJ ending cutscene
+- Added a sound effect for losing your suit in boss cutscenes
+- Jellybean Bank money is now shown in your Inventory Page
+- Cog HQs now have a permenant 2x gag EXP bonus
+- Temporarily disabled Parties
+- Retextured TTC playground ground texture
+
+Bug Fixes
+- Fixed invasions not counting towards merits
+- Fixed incorrect camera angle on final VP cutscene
+- Fixed incorrect health colors for cogs

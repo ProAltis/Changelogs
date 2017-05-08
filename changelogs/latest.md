@@ -1,17 +1,20 @@
-Alpha 1.7.16
+Alpha 1.7.17
 =======
 Features
-- Merit rewards are now available from tasks to toons tasking in the The Brrrrgh and beyond! The values range from 100-700 promotional units.
+- Added a NEWS screen to the main menu that shows release notes and social links
 
 Tweaks
-- Added a floor indicator for Mints, DA offices, and Cog Golf Courses
-- Jellybean banks now require jellybeans in order to upgrade from the catalog
-- Interact hotkey is now remappable in options
-- Drastically increase the jellybean reward from Help-A-Toon tasks, go out and help some lower laff toons!
-- Building Icons only show up on the quest maps if you have completed your building radar for that cog department, task buildings will still show as grey if taken over, however.
+- Added small help videos for some options (visible when hovering over the ? icon)
+- Accessories now show up the Pick-A-Toon screen
+- Clicking on the laff meter will bring up a popup that can show your tasks or gags (mainly useful for mobile)
+- TOUCH CONTROLS: Moved the jump button to the right side of the screen to make it easier to press when moving
+- Dreamland is now a little darker and has some distant fog
+- Website Invasion Tracker now shows specific cog type and invasion progress
+- Added the population counts back to the Districts page
+- Buying from the catalog will prefer to use jellybean bank money as opposed to jellybean jar
+- Revamped backend to Options screen on the main menu
+- Preferences.json will now look a bit more organized and will display in alphebetical order
 
 Bug Fixes
-- Fix a crash on the items page relating to cheesy effects
-- The entirety of the cog's head now explodes with Opera Singer
-- Fix for codes being redeemable more than once
-- Fix for 0/Max being shown when v2.0 cogs are revived
+- Fix crash when using the accessory trunk
+- Fix crashes related to the CJ and CEO

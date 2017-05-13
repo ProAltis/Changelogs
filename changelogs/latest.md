@@ -19,3 +19,4 @@ Tweaks
 Bug Fixes
 - Fix crash when using the accessory trunk
 - Fix crashes related to the CJ and CEO
+- Fix crashes when using the Kart Page

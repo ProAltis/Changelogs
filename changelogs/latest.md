@@ -1,22 +1,36 @@
-Alpha 1.7.17
-=======
+Beta 1.0.4
+
 Features
-- Added a NEWS screen to the main menu that shows release notes and social links
-- Added Anisotropic Filtering and Anti-Aliasing options
+  - Added in tasks for Acorn Acres! You can get the tasks from the HQ officers 
+    in the Acorn Acres playground as soon as you finish the megatask
+  - Added in a fishing pond to the Acorn Acres playground
+  - The new deer model, created by Polygon, is now implemented!
+    - Any deer toons that exist will be automatically upgraded to the new deer 
+      model!
+    - The deer sounds are the same as before, don't fret!
+    - Added an easter egg to the Daisy Gardens center flower, get all of your 
+      friends to gather around the flower!
 
 Tweaks
-- Added small help videos for some options (visible when hovering over the ? icon)
-- Accessories now show up the Pick-A-Toon screen
-- Clicking on the laff meter will bring up a popup that can show your tasks or gags (mainly useful for mobile)
-- TOUCH CONTROLS: Moved the jump button to the right side of the screen to make it easier to press when moving
-- Dreamland is now a little darker and has some distant fog
-- Website Invasion Tracker now shows specific cog type and invasion progress
-- Added the population counts back to the Districts page
-- Buying from the catalog will prefer to use jellybean bank money as opposed to jellybean jar
-- Revamped backend to Options screen on the main menu
-- Preferences.json will now look a bit more organized and will display in alphebetical order
+  - Running in water no longer produces a special running sound
+  - Increased the chance of getting a certificate from fishing slightly
+  - Adjusted all the levels of cogs around Toontown, the new ranges are as 
+    follows:
+    Toontown Central: 1-4
+    Acorn Acres: 2-6
+    Donald's Dock: 3-7
+    Daisy Gardens: 4-7
+    Minnie's Melodyland: 5-8
+    The Brrrgh: 5-9
+    Donald's Dreamland: 6-10
 
-Bug Fixes
-- Fix crash when using the accessory trunk
-- Fix crashes related to the CJ and CEO
-- Fix crashes when using the Kart Page
+Bugfixes
+  - Fix water color for Acorn Acres
+  - Fix a bug with the Training Page buyback not working
+  - Fix for tasks being offered regardless of task history
+  - Remove a fence from inside the Wacky Way tunnel
+
+Security
+ - Fixed multiple district resets
+ - Custom Python Build that Sandboxes all known injection methods
+ - Added VMProtect to the Python Build for Mutex

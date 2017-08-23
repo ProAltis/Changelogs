@@ -1,36 +1,20 @@
-Beta 1.0.4
+## TTPA Beta 1.1.1
 
-Features
-  - Added in tasks for Acorn Acres! You can get the tasks from the HQ officers 
-    in the Acorn Acres playground as soon as you finish the megatask
-  - Added in a fishing pond to the Acorn Acres playground
-  - The new deer model, created by Polygon, is now implemented!
-    - Any deer toons that exist will be automatically upgraded to the new deer 
-      model!
-    - The deer sounds are the same as before, don't fret!
-    - Added an easter egg to the Daisy Gardens center flower, get all of your 
-      friends to gather around the flower!
+### Features
 
-Tweaks
-  - Running in water no longer produces a special running sound
-  - Increased the chance of getting a certificate from fishing slightly
-  - Adjusted all the levels of cogs around Toontown, the new ranges are as 
-    follows:
-    Toontown Central: 1-4
-    Acorn Acres: 2-6
-    Donald's Dock: 3-7
-    Daisy Gardens: 4-7
-    Minnie's Melodyland: 5-8
-    The Brrrgh: 5-9
-    Donald's Dreamland: 6-10
+  - The Minnie's Melodyland taskline has been released! Help the shopkeepers of Minnie's Melodyland take back their playground from the Cashbots!
 
-Bugfixes
-  - Fix water color for Acorn Acres
-  - Fix a bug with the Training Page buyback not working
-  - Fix for tasks being offered regardless of task history
-  - Remove a fence from inside the Wacky Way tunnel
+### Tweaks
 
-Security
- - Fixed multiple district resets
- - Custom Python Build that Sandboxes all known injection methods
- - Added VMProtect to the Python Build for Mutex
+  - Buffed the experience rewards on some more difficult achievements.
+  - Updated some of the Boardbot face-off taunts.
+
+### Bugfixes
+
+  - Fix a bug that permitted a toon to waste jellybeans "buying" a level 7 gag 
+    from the gag shop.
+  - Fix an issue with fishermen crashing on streets.
+  - Fix ZAP gags not unluring Cogs properly.
+  - Fix a crash related to custom surface walking sounds and Goofy Speedway 
+    tracks.
+  - Fix some grammar issues in a few Cog taunts.

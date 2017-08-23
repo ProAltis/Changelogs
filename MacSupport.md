@@ -1,9 +1,15 @@
+# This is an archived guide.
+
+This method no longer works! TTPA is working on official mac support.
+
 ## (Unofficial) Mac OSX Support
 
 (credit to Jollibee for writing this)
 
-Before continuing, please acknowledge that this method uses a launcher put together by a non-staff entity. The launcher is open-sourced [here](https://github.com/judge2020/AltisLauncher-Mac/blob/master/Project%20Altis/ViewController.swift#L15). We don't expect any issues, but proceed at your own risk. 
-[TTPA is not responsible for anything that happens as a result of you installing his launcher.]
+~~Before continuing, please acknowledge that this method uses a launcher put together by a non-staff entity. The launcher is open-sourced [here](https://github.com/judge2020/AltisLauncher-Mac/blob/master/Project%20Altis/ViewController.swift#L15). We don't expect any issues, but proceed at your own risk. 
+[TTPA is not responsible for anything that happens as a result of you installing his launcher.]~~
+
+Judge was later hired onto the team
 # Let's Go!
 Download "ttpa.dmg" from https://github.com/judge2020/AltisLauncher-Mac/releases
 ![image](https://camo.githubusercontent.com/7a65ad8412bbac66e36b1b9bf9ffcb09879fade6/687474703a2f2f696d6167652e70726e747363722e636f6d2f696d6167652f30353637393634616265393834373863396462643936343536646364383165622e706e67)
